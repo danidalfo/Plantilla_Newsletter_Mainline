@@ -1,0 +1,53 @@
+<table style=" background-color: #cccccc ; max-width: 600px; padding: 10px; margin:0 auto; border-collapse: collapse;">
+	
+	<tr>
+		
+		<td style="background-color: #cccccc">
+			<div align="center">
+				<a href="https://www.instagram.com/mainline.co/">
+					<img style=" padding: 0; margin: 10px 0 0 ;  display: block" src="http://img.fenixzone.net/i/LOem8Fb.gif" width="20%">
+				</a>
+			</div>
+			<div style="color: #000000; margin: 10px 5px 0 ; text-align: left;font-family: regular-helvetica">
+				<p style="margin: 0px; font-size: 15px">
+					<br/>
+					Hi friends,</p>
+				
+				<p style="margin: 0px 5px ; font-size: 15px">
+					It's a pleasure to bring you our 3rd release by Bamba Samba, hope you enjoy it with family and friends</p>
+			
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="background-color: #cccccc ; padding: 0">
+			<a href="https://soundcloud.com/mainlinemainline/ml003-bamba-samba-first-season">
+				<img style="padding: 0; margin: 10px 0 0 ;  display: block" src="http://img.fenixzone.net/i/not7eXc.png" width="100%">
+			</a>
+			<div style="color: #000000; margin: 10px 0 0 ; text-align: left ; font-family: regular-helvetica">
+			
+				
+				<p style="margin: 0px; font-size: 15px">
+					Best regards,
+					<br/>
+					Mainline boys </p>
+					<br/>
+			
+			</div>
+			<div style="width: 100%; text-align: center">
+					<a href="https://www.instagram.com/mainline.co/">
+						<img style="padding: 0;  margin: 5px" src="https://cdn2.iconfinder.com/data/icons/social-media-2151/512/2_Media_social_website_instagram-32.png">
+					<a/>
+					<a href="https://soundcloud.com/mainlinemainline">
+						<img style="padding: 0;  margin: 5px" src="https://cdn2.iconfinder.com/data/icons/social-media-2151/512/26_Media_social_website_wave-32.png">
+					<a/>
+					<a href="https://www.facebook.com/mainline.mainline/">
+						<img style="padding: 0;  margin: 5px" src="https://cdn2.iconfinder.com/data/icons/social-media-2151/512/1_Media_social_website_facebook-32.png">
+					<a/>
+			</div>
+			
+		</td>
+		
+	</tr>
+	
+</table>
